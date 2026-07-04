@@ -3,19 +3,19 @@ AI STUDY PLANNER
 Project Title
 
 AI Study Planner: Intelligent Study Scheduling and Learning Management System
-
+__________________________________________________________________________________________________________________________________________
 Project Objectives
 
-To create personalized study schedules for students using AI.
+1) To create personalized study schedules for students using AI.
 
-To improve time management and study efficiency.
+2) To improve time management and study efficiency.
 
-To track academic progress and learning performance.
+3) To track academic progress and learning performance.
 
-To provide smart recommendations based on strengths and weaknesses.
+4) To provide smart recommendations based on strengths and weaknesses.
 
-To help students achieve study goals through reminders and analytics.
-
+5) To help students achieve study goals through reminders and analytics.
+__________________________________________________________________________________________________________________________________________
 Project Features
 
 •AI-generated study plans
@@ -37,10 +37,10 @@ Project Features
 •Dashboard with study statistics
 
 •User authentication and profile management
-
+__________________________________________________________________________________________________________________________________________
 Project Technology
 
-Frontend:
+*Frontend:
 
 •HTML5 – Structure of web pages
 
@@ -50,7 +50,7 @@ Frontend:
 
 •React.js – Frontend framework for dynamic web applications
 
-Backend:
+*Backend:
 
 •Python
 
@@ -60,11 +60,11 @@ Backend:
 
 •OpenAI API / AI Model Integration – Generates personalized study plans
 
-Database:
+*Database:
 
 •MySQL – Stores user information, study schedules, tasks, and progress data
 
-Development Tools:
+*Development Tools:
 
 •VS Code – Code editor
 
@@ -73,7 +73,7 @@ Development Tools:
 •Postman – API testing
 
 •XAMPP (optional) – Local server environment
-
+__________________________________________________________________________________________________________________________________________
 Expected Outcome:
 
 The AI Study Planner will provide students with personalized study schedules, improve learning efficiency, track progress, and assist in achieving academic goals through AI-powered recommendations.
